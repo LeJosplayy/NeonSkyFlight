@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!--NeonSkyFlight, Version 2.4.0.0-->
+<!--GUI Settings-->
+<!--Do not change this file manually, unless you know what are you doing-->
+<PARAMETERS>
+    <FCVERSION value="23" />
+    <LOGFOLDER value="C:\Users\LeJosplayy\Desktop\WinGui2 Now\MultiWiiWinGUI\bin\Release\Logs" />
+    <CAPTUREFOLDER value="C:\Users\LeJosplayy\Desktop\WinGui2 Now\MultiWiiWinGUI\bin\Release\Captures" />
+    <SETTINGSFOLDER value="C:\Users\LeJosplayy\Desktop\WinGui2 Now\MultiWiiWinGUI\bin\Release\Settings" />
+    <LOGATCONNECT value="False" />
+    <SERIALPORT value="" />
+    <SERIALSPEED value="115200" />
+    <LOGRAW value="False" />
+    <LOGATT value="False" />
+    <LOGMAG value="False" />
+    <LOGRCC value="False" />
+    <LOGRCX value="False" />
+    <LOGMOT value="False" />
+    <LOGSRV value="False" />
+    <LOGNAV value="False" />
+    <LOGPAR value="False" />
+    <LOGDBG value="False" />
+    <MAPPROVIDER value="1" />
+    <ANNOUNCE_ALT value="False" />
+    <ANNOUNCE_VBAT value="False" />
+    <ANNOUNCE_DIST value="False" />
+    <ANNOUNCE_INTERVAL value="0" />
+    <CELLCOUNT value="3" />
+    <MAX_WP_NUMBER value="100" />
+    <WP_RADIUS value="200" />
+</PARAMETERS>
